@@ -22,5 +22,4 @@ I'm Sharu Paul, a Research Scientist in Bioinformatics working in the Genome Inf
 * I named a new species - *Candidatus* Haliotispira prima gen. nov., sp. nov.
 
 ### 🧬 Words to do science by
-An amazing advisor once said to me: \
-*"In science, there is always a balance between absolute truth and useful truth. It is better to strive for useful truth and get things done than absolute truth and never finish".*
+An amazing advisor once said to me: *"In science, there is always a balance between absolute truth and useful truth. It is better to strive for useful truth and get things done than absolute truth and never finish".*
