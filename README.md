@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Sharu Paul, a Research Scientist in Bioinformatics working in the Genome Informatics Facility at Iowa State University. I collaborate with USDA researchers, faculty at ISU, and industry scientists for pipeline development and data analysis across multiple projects.
+I'm Sharu Paul, a Research Scientist in Bioinformatics working in the Bioinformatics Facility at Iowa State University. I collaborate with USDA researchers, faculty at ISU, and industry scientists for pipeline development and data analysis across multiple projects.
 
 ### 🔭 I’m currently
 * Studying infection response, cell type characterization using Single Cell RNAseq in multiple species
